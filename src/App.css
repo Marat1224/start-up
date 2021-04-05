@@ -1,0 +1,161 @@
+.menu a{
+	text-decoration: none;
+	color: white;
+	padding: 10px 40px;
+	display: block;
+	}
+.menu{
+	text-align: center;
+	position: fixed;
+	top:0;
+	padding: 10px;
+	background-color:#45015d ;
+	width: 20%;
+	display: inline-block;
+	color: white;
+	left: 0;
+	height: 100%;
+	border-radius: 10px;
+
+	
+
+	}
+.menu a:hover{
+	background-color: white;
+	color: #45015d;
+	}
+.main{
+	margin: 80px 40px 0 300px;
+	margin-left: 30%;
+}
+h1{
+	font-size: 64px;
+	font-weight: 400px;
+}
+body{
+	font-family: "Poppins",sans-serif;
+}
+h2{
+	color:#45015d ;
+	font-size: 48px;
+	margin: 10px 0;
+}
+hr{
+	width: 100%;
+	border: 5px solid #45015d ;
+	background-color:  #45015d ;
+	border-radius: 10px;
+	margin: 20px 0;
+}
+.Showcase img{
+	width: 45%;
+	border-radius: 10px;
+	opacity: 0.7;
+
+
+}
+.Showcase img:hover{
+	opacity: 1;
+}
+.teammate img{
+width: 100%;
+border-radius: 5px;
+filter: grayscale(30%);
+}
+.teammate{
+	
+	display: inline-block;
+	width: 20%;
+	padding: 10px;
+	margin: 5px;
+	
+	vertical-align: top;
+	min-width: 300px;
+}
+.position{
+	color: gray;
+}
+.description{
+	background-color: #eee;
+	padding: 10px;
+	border-radius: 10px;
+}
+.tariff .tariff-name{
+	background-color:#45015d ;
+	color: white;
+	padding: 32px 0;
+
+}
+.tariff{
+	
+	
+	display: inline-block;
+	width: 45%;
+	text-align: center;
+
+
+}
+.tariff ul{
+	border-radius: 10px;
+	background-color: #f1f1f1;
+	color: black;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.tariff li{
+	border-bottom: 1px solid #ddd;
+	padding: 16px 0;
+	border-radius: 10px;
+
+}
+.period{
+	color: gray;
+}
+.tariff .pro{
+	background-color: #f44336;
+}
+.tariff a{
+	background-color: white;
+	color:#45015d;
+	padding: 10px; 
+	text-decoration: none;
+	border-radius: 5px;
+}
+.pro a{
+	background-color: red;
+	color: white;
+}
+.tariff a:hover{
+	color: white;
+	background-color:#45015d ;
+}
+.pro a:hover{
+	color:red; 
+	background-color: white;
+}
+#contact input{
+	width: 100%;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 5px;
+	
+
+
+
+}
+#contact button{
+	width: 100%;
+	margin:10px;
+	padding: 10px;
+	background-color: #45015d ;
+	border-radius:10px;
+	color: white;
+	border: none;
+
+}
+.footer{
+	background-color: #f1f1f1;
+	padding: 20px;
+	text-align: right;
+}
